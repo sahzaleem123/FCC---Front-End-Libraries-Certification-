@@ -1,7 +1,6 @@
 # Front End Libraries Certification (FreeCodeCamp)
 ## |--------------------------------------Certification------------------------------------|
-### ↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
-## <==== https://www.freecodecamp.org/certification/syedaleemhussain/front-end-libraries ====>
+### <==== https://www.freecodecamp.org/certification/syedaleemhussain/front-end-libraries ====>
 
 - [Build A Random Quote Machine](https://codepen.io/SyedAleemHussain/full/QWWzJYw) ✔
 - [Build A Markdown Previewer](https://codepen.io/SyedAleemHussain/full/VwwNQeq) ✔
