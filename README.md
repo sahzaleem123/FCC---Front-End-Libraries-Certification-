@@ -1,5 +1,5 @@
 # Front End Libraries Certification (FreeCodeCamp)
-<center>Centered text</center>
+## |------------------------------------------------------Certification------------------------------------------------------------------|
 
 - [Build A Random Quote Machine](https://codepen.io/SyedAleemHussain/full/QWWzJYw) ✔
 - [Build A Markdown Previewer](https://codepen.io/SyedAleemHussain/full/VwwNQeq) ✔
